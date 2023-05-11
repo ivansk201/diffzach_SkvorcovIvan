@@ -1,0 +1,10 @@
+C:\Users\305-5\Desktop\Skvortsovpr-22\difzacehet\bin\Debug\difzacehet.exe.config
+C:\Users\305-5\Desktop\Skvortsovpr-22\difzacehet\bin\Debug\difzacehet.exe
+C:\Users\305-5\Desktop\Skvortsovpr-22\difzacehet\bin\Debug\difzacehet.pdb
+C:\Users\305-5\Desktop\Skvortsovpr-22\difzacehet\obj\Debug\difzacehet.csproj.AssemblyReference.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\difzacehet\obj\Debug\difzacehet.Form1.resources
+C:\Users\305-5\Desktop\Skvortsovpr-22\difzacehet\obj\Debug\difzacehet.Properties.Resources.resources
+C:\Users\305-5\Desktop\Skvortsovpr-22\difzacehet\obj\Debug\difzacehet.csproj.GenerateResource.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\difzacehet\obj\Debug\difzacehet.csproj.CoreCompileInputs.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\difzacehet\obj\Debug\difzacehet.exe
+C:\Users\305-5\Desktop\Skvortsovpr-22\difzacehet\obj\Debug\difzacehet.pdb
